@@ -1,0 +1,97 @@
+<svg id="Dark" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="600" viewBox="0 0 1200 600">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: #a28036;
+      }
+
+      .cls-2, .cls-4 {
+        font-size: 110px;
+        font-family: Lobster;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-6 {
+        stroke: #e6e5e4;
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-6, .cls-8 {
+        stroke-width: 1px;
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-8 {
+        stroke: #b1adad;
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="611.811" y1="372" x2="579.158" y2="334.438" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f2f1f2"/>
+      <stop offset="1" stop-color="#f7f6f6"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="501.031" y1="183.323" x2="686.469" y2="344.521" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#827c7c"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="598.032" y1="181.969" x2="598.032" y2="143" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#432b10"/>
+      <stop offset="0.166" stop-color="#432b10"/>
+      <stop offset="1" stop-color="#dddfcd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="637.656" y1="233.137" x2="699" y2="277.707" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d0cdcd"/>
+      <stop offset="1" stop-color="#9c9696"/>
+    </linearGradient>
+  </defs>
+  <rect id="Background" class="cls-1" width="1200" height="600"/>
+  <text id="Hot_Chocolate" data-name="Hot Chocolate" class="cls-2" x="309" y="502">Hot Chocolate</text>
+  <rect id="Background-2" data-name="Background" class="cls-3" width="1200" height="600"/>
+  <text id="Hot_Chocolate-2" data-name="Hot Chocolate" class="cls-4" x="309" y="502">Hot Chocolate</text>
+  <path class="cls-5" d="M595.481,334.437c47.8,0,86.556,8.408,86.556,18.781S643.284,372,595.481,372s-86.555-8.409-86.555-18.782S547.678,334.437,595.481,334.437Z"/>
+  <path id="Body" class="cls-6" d="M522.01,160.724s15.276,47.5-10.911,87.205,2.182,104.22,44.372,112.727c33.611,6.662,56.755,8.346,92.382,4.254,16.731-4.963,56.012-70.9,29.824-116.981s-5.091-81.533-5.091-81.533Z"/>
+  <path id="Ellipse" class="cls-7" d="M598.033,143c41.985,0,76.021,8.727,76.021,19.492s-34.036,19.491-76.021,19.491-76.021-8.726-76.021-19.491S556.047,143,598.033,143Z"/>
+  <path class="cls-8" d="M658.037,212.48s80.359-12.917,16,81.532c-10.3,4.254-24.732,4.963-24.732,4.963s81.471-87.2-11.638-80.114C653.556,214.48,658.037,212.48,658.037,212.48Z"/>
+</svg>
