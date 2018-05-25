@@ -37,10 +37,6 @@
         fill: #a28036;
       }
 
-      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
-        fill-rule: evenodd;
-      }
-
       .cls-3 {
         fill: url(#linear-gradient);
       }
