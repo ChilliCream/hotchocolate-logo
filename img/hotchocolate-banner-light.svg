@@ -41,6 +41,10 @@
         fill: url(#linear-gradient);
       }
 
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+         fill-rule: evenodd;
+      }
+
       .cls-4 {
         stroke: #e6e5e4;
         fill: url(#linear-gradient-2);
