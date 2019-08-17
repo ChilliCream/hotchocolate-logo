@@ -1,15 +1,13 @@
 # Hot Chocolate Logo
 
-[![license](https://img.shields.io/github/license/ChilliCream/hotchocolate-logo.svg)](https://github.com/ChilliCream/hotchocolate-logo/blob/master/LICENSE)
-
-## Banner Dark
-
-![banner dark](img/hotchocolate-banner-dark.svg)
-
-## Banner Light
+## Banner
 
 ![banner light](img/hotchocolate-banner-light.svg)
 
 ## Signet
 
 ![signet](img/hotchocolate-signet.svg)
+
+## Copyright
+
+Copyright 2019 by ChilliCream (Michael & Rafael Staib)
