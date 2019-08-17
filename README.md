@@ -2,7 +2,7 @@
 
 ## Banner
 
-![banner light](img/hotchocolate-banner-light.svg)
+![banner light](img/hotchocolate-banner.svg)
 
 ## Signet
 
